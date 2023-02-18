@@ -1,0 +1,23 @@
+
+/* STYLING APPLIED TO ALL ODD NUMBERED ELEMENTS (1, 3, 5) */
+.odd {
+    background-color: #FC9D9A;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+/* STYLING APPLIED TO SECOND ELEMENT */
+#two {
+    color: #0052D4;
+    font-size: 36px;
+}
+
+/* LARGE FONT STYLING APPLIED TO THE THIRD AND FOURTH ELEMENTS */
+.large {
+    font-size: 24px;
+}
+
+/* UNIQUE STYLING APPLIED TO THE FOURTH ELEMENT */
+#four {
+    background-color: #38E54D;
+    font-weight: 900;
+}
