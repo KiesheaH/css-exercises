@@ -1,0 +1,17 @@
+/* SHARED STYLING */
+.first,
+.second {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+}
+
+/* UNIQUE STYLING FOR FIRST CLICK ME BUTTON */
+.first {
+    background-color: black;
+    color: white;
+}
+
+/* UNIQUE STYLING FOR SECOND CLICK ME BUTTON */
+.second {
+    background-color: yellow;
+}
